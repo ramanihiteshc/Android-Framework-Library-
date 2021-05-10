@@ -2,7 +2,7 @@
 All Android Framework Library list 
   <section class="normal markdown-section">
                                 
-                                <h4 id="common"><a name="Framework_Common" id="Framework_Common"></a>Common</h4>
+ <h4 id="common"><a name="Framework_Common" id="Framework_Common"></a>Common</h4>
 <ol>
 <li><strong>afinal</strong>    Afinal是一个android的ioc，orm框架<br><a href="https://github.com/yangfuhai/afinal" target="_blank">https://github.com/yangfuhai/afinal</a></li>
 <li><strong>xUtils**</strong>    android orm, bitmap, http, view inject...<br><a href="https://github.com/wyouflf/xUtils" target="_blank">https://github.com/wyouflf/xUtils</a></li>
@@ -74,7 +74,5 @@ All Android Framework Library list
 <li><strong>dexposed</strong> dexposed enable 'god' mode for single android application.<br><a href="https://github.com/alibaba/dexposed" target="_blank">https://github.com/alibaba/dexposed</a></li>
 <li><strong>xLua</strong> xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, osx, etc.<br><a href="https://github.com/Tencent/xLua" target="_blank">https://github.com/Tencent/xLua</a></li>
 </ol>
-
-                                
-                                </section>
+   </section>
                             
